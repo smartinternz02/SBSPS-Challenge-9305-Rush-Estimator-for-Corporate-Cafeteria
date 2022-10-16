@@ -78,10 +78,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/J0SAL/ibm-rush-estimator.git
+$ git clone https://github.com/smartinternz02/SBSPS-Challenge-9305-Rush-Estimator-for-Corporate-Cafeteria.git
 # Go into the repository
-$ cd ibm-rush-estimator
-$ cd frontend
+$ cd SBSPS-Challenge-9305-Rush-Estimator-for-Corporate-Cafeteria
+$ cd Frontend
 # Install Dependencies
 $ npm install
 # Run Application
@@ -95,10 +95,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/J0SAL/ibm-rush-estimator.git
+$ git clone https://github.com/smartinternz02/SBSPS-Challenge-9305-Rush-Estimator-for-Corporate-Cafeteria.git
 # Go into the repository
-$ cd ibm-rush-estimator
-$ cd backend
+$ cd SBSPS-Challenge-9305-Rush-Estimator-for-Corporate-Cafeteria
+$ cd Backend
 # Create & Activate Environment (optional) here's a sample code
 $ pyton -m venv project_env
 $ project_env\Scripts\activate.bat
