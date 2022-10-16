@@ -100,7 +100,7 @@ $ git clone https://github.com/smartinternz02/SBSPS-Challenge-9305-Rush-Estimato
 $ cd SBSPS-Challenge-9305-Rush-Estimator-for-Corporate-Cafeteria
 $ cd Backend
 # Create & Activate Environment (optional) here's a sample code
-$ pyton -m venv project_env
+$ python -m venv project_env
 $ project_env\Scripts\activate.bat
 # Install dependencies
 pip -r requirements.txt
